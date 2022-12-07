@@ -1,2 +1,3 @@
-# mentat-collective.github.io
-mentat.org site.
+# Mentat Collective
+
+Coming soon!
